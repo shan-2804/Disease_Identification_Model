@@ -66,7 +66,7 @@ predicted_disease = predict_disease(input_symptoms, model, symptom_names)
 print("Predicted Disease:", predicted_disease)
 ```
 
-#Contributing
+## Contributing
 Contributions to the Disease Prediction System are welcome! To contribute:
 1. Fork the repository.
 2. Create a new branch (git checkout -b feature/your-feature-name).
@@ -76,14 +76,14 @@ Contributions to the Disease Prediction System are welcome! To contribute:
 6. Create a new Pull Request.
 7. License
 
-#Authors
+## Authors
 Shnatanu Devaliya
 
-#References
+## References
 https://www.geeksforgeeks.org/disease-prediction-using-machine-learning/
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8896926/
 
-#Troubleshooting
+## Troubleshooting
 If you encounter any issues or have questions, please feel free to open an issue in the repository.
 
 
